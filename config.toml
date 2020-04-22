@@ -1,0 +1,4 @@
+baseURL = "https://purpleturtll.github.io"
+languageCode = "pl-pl"
+title = "Groszkowe Wierszyki"
+theme = "noteworthy"
