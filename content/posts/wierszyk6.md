@@ -1,5 +1,5 @@
 ---
-title: "Piąty wierszyk dla Groszka"
+title: "Szósty wierszyk dla Groszka"
 date: 2020-05-14T02:29:18+02:00
 draft: true
 ---
